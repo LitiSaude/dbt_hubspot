@@ -1,2 +1,3 @@
 packages:
 - git: https://github.com/LitiSaude/dbt_hubspot_source.git
+  revision: d48faeceb425f387aa2d52f604f3c62eb5ae5fb9
